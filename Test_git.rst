@@ -14,4 +14,4 @@ modifié 2.4
 modifiér pour git remote 
 
 
-commit sur master pour merge avec master
+conflit résolu
